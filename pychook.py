@@ -1,1 +1,1 @@
-print("pychook")
+print "pychook"
